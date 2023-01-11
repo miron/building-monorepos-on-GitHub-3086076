@@ -49,8 +49,8 @@
       "projectFolder": "apps/shop"
     },
     {
-      "packageName": "finance",
-      "projectFolder": "apps/finance"
+      "packageName": "@my-libs/component",
+      "projectFolder": "libs/component"
     }
   ]
 }
